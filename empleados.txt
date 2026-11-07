@@ -1,0 +1,2 @@
+EMP01;Diego Calix;Siguatepeque;El Porvenir;17500.0
+EMP02;Maria Lopez;San Pedro Sula;Barrio Guamilito;21000.0
